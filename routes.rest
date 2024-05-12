@@ -4,8 +4,48 @@
 ### GET http://localhost:8080/contacts/6635b20dc0971975e5801081
 ### GET http://localhost:8080/contacts/6635b263c0971975e5801082
 
+### POST http://localhost:8080/contacts
+  {
+    "firstName": "Jamal",
+    "lastName": "Murray",
+    "email": "jamalM@gmail.com",
+    "favoriteColor": "Orange",
+    "birthday": "02/23/97"
+  }
+
+### PUT http://localhost:8080/contacts/6635b0f1c0971975e5801080
+  {
+    "firstName": "Emilio",
+    "lastName": "Guerrero",
+    "email": "ferxxolover23@gmail.com",
+    "favoriteColor": "Black",
+    "birthday": "05/05/01"
+  }
+
+### DELETE http://localhost:8080/contacts/6635b263c0971975e5801082
+
 // PRODUCTION Deploy 
 ### GET https://cse341-node-dj67.onrender.com/contacts 
 ### GET https://cse341-node-dj67.onrender.com/contacts/6635b0f1c0971975e5801080 
 ### GET https://cse341-node-dj67.onrender.com/contacts/6635b20dc0971975e5801081 
 ### GET https://cse341-node-dj67.onrender.com/contacts/6635b263c0971975e5801082
+
+### POST https://cse341-node-dj67.onrender.com/contacts
+  {
+    "firstName": "Jamal",
+    "lastName": "Murray",
+    "email": "jamalM@gmail.com",
+    "favoriteColor": "Orange",
+    "birthday": "02/23/97"
+  }
+
+### PUThttps://cse341-node-dj67.onrender.com/contacts/6635b0f1c0971975e5801080
+  {
+    "firstName": "Emilio",
+    "lastName": "Guerrero",
+    "email": "ferxxolover23@gmail.com",
+    "favoriteColor": "Black",
+    "birthday": "05/05/01"
+  }
+
+### DELETE https://cse341-node-dj67.onrender.com/contacts/6635b263c0971975e5801082

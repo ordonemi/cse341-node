@@ -1,30 +1,32 @@
-[{
-  "_id": {
-    "$oid": "6635b0f1c0971975e5801080"
+[
+  {
+    "_id": {
+      "$oid": "6635b0f1c0971975e5801080"
+    },
+    "firstName": "Emilio",
+    "lastName": "Ordonez",
+    "email": "ferxxolover23@gmail.com",
+    "favoriteColor": "Green",
+    "birthday": "05/05/01"
   },
-  "firstName": "Emilio",
-  "lastName": "Ordonez",
-  "email": "ferxxolover23@gmail.com",
-  "favoriteColor": "Green",
-  "birthday": "05/05/01"
-},
-{
-  "_id": {
-    "$oid": "6635b20dc0971975e5801081"
+  {
+    "_id": {
+      "$oid": "6635b20dc0971975e5801081"
+    },
+    "firstName": "Salomon",
+    "lastName": "Hoyos",
+    "email": "ferxxo23@gmail.com",
+    "favoriteColor": "Green",
+    "birthday": "08/19/92"
   },
-  "firstName": "Salomon",
-  "lastName": "Hoyos",
-  "email": "ferxxo23@gmail.com",
-  "favoriteColor": "Green",
-  "birthday": "08/19/92"
-},
-{
-  "_id": {
-    "$oid": "6635b263c0971975e5801082"
-  },
-  "firstname": "Lebron",
-  "lastName": "James",
-  "email": "reallebron@gmail.com",
-  "favoriteColor": "Purple",
-  "birthday": "12/20/84"
-}]
+  {
+    "_id": {
+      "$oid": "6635b263c0971975e5801082"
+    },
+    "firstname": "Lebron",
+    "lastName": "James",
+    "email": "reallebron@gmail.com",
+    "favoriteColor": "Purple",
+    "birthday": "12/20/84"
+  }
+]
