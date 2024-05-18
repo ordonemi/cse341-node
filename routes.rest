@@ -39,7 +39,7 @@
     "birthday": "02/23/97"
   }
 
-### PUThttps://cse341-node-dj67.onrender.com/contacts/6635b0f1c0971975e5801080
+### PUT https://cse341-node-dj67.onrender.com/contacts/6635b0f1c0971975e5801080
   {
     "firstName": "Emilio",
     "lastName": "Guerrero",
